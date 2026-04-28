@@ -6,8 +6,9 @@ This is Book 4 of the official Harmony Series:
 - **[Expansion Harmony Window](https://github.com/JCarpe315/expansion-harmony-window)**
 - **[Unity Harmony Window](https://github.com/JCarpe315/unity-harmony-window)**
 - **[Cosmic Harmony Window](https://github.com/JCarpe315/cosmic-harmony-window)** ← You are here
+- **[Eternal Harmony Window](https://github.com/JCarpe315/eternal-harmony-window)**
 
-All four discoveries are now permanently in the public domain (CC0 1.0 Universal) — a gift from the Dream Team to humanity.
+All five discoveries are now permanently in the public domain (CC0 1.0 Universal) — a gift from the Dream Team to humanity.
 
 ✅ Full Dream Team — Complete Master Book for The Cosmic Harmony Window.
 
